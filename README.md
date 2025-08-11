@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently study in **centurian university**
 
-- 🌱 I’m currently learning **java,python,c,machine learning**
+- 🌱 I’m currently learning **java,python,c,angular,SpringBoot,Mysql**
 
-- 📫 How to reach me **dibeshkumarparida2610@gmail.com**
+- 📫 How to reach me **dibeshwork07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
