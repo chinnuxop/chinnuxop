@@ -8,6 +8,15 @@
 - 🌱 I’m currently learning **java,python,c,angular,SpringBoot,Mysql**
 
 - 📫 How to reach me **dibeshwork07@gmail.com**
+- ## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=chinnuxop)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinnuxop&show_icons=true)
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinnuxop&layout=compact)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
