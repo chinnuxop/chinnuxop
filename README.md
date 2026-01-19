@@ -8,14 +8,39 @@
 - 🌱 I’m currently learning **java,python,c,angular,SpringBoot,Mysql**
 
 - 📫 How to reach me **dibeshwork07@gmail.com**
-- ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=chinnuxop)
+## 🌟 GitHub Activity Overview
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinnuxop&show_icons=true)
+<div align="center">
 
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinnuxop&layout=compact)
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=chinnuxop&theme=radical&border_radius=10)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=chinnuxop&show_icons=true&theme=radical&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnuxop&layout=compact&theme=radical&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 🚀 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chinnuxop&theme=react-dark)
+
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=chinnuxop&theme=radical&no-frame=true&row=1)
+
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=chinnuxop&style=for-the-badge)
 
 
 <h3 align="left">Connect with me:</h3>
