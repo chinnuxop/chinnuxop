@@ -58,21 +58,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chinnuxop&theme=radical&no-frame=true&margin-w=15" />
-</p>
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chinnuxop/chinnuxop/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
 ## 💬 Quote
 
 <p align="center">
