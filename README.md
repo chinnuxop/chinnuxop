@@ -58,10 +58,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chinnuxop&theme=radical&no-frame=true&row=1&column=6" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=chinnuxop&theme=radical&no-frame=true&row=1&column=6" 
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -69,15 +72,17 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/chinnuxop/chinnuxop/blob/output/github-contribution-grid-snake.svg" />
+  <img 
+    src="https://github.com/chinnuxop/chinnuxop/blob/output/github-contribution-grid-snake.svg" 
+    alt="Contribution Snake"
+  />
 </p>
 
 ---
-
 ## 💬 Quote
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+  <i>"Consistency beats motivation."</i>
 </p>
 
 ---
