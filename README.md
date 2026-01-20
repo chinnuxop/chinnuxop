@@ -1,7 +1,7 @@
 <!-- 🌊 WAVE HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-<h1 align="center">Hi 👋, I'm Dibesh</h1>
+<h1 align="center">Hi 👋, I'm Dibesh Kumar Parida</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Learner;MERN+Stack+Aspirant;Always+Learning+New+Things" />
@@ -20,6 +20,10 @@
   <a href="https://github.com/chinnuxop">
     <img src="https://img.shields.io/badge/GitHub-chinnuxop-black?style=for-the-badge&logo=github" />
   </a>
+<a href="https://www.linkedin.com/in/dibesh-kumar-parida-3b9652313">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
 </p>
 
 ---
@@ -33,13 +37,7 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,angular,spring,mysql,git,github" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -48,7 +46,13 @@
 </p>
 
 ---
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,angular,spring,mysql,git,github" />
+</p>
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
