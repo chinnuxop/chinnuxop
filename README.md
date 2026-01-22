@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Learner;MERN+Stack+Aspirant;Always+Learning+New+Things" />
 </p>
 
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chinnuxop&label=Profile%20views&color=blueviolet&style=for-the-badge" />
 </p>
@@ -17,9 +15,9 @@
   <a href="mailto:dibeshwork07@gmail.com">
     <img src="https://img.shields.io/badge/Email-dibeshwork07%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/chinnuxop">
-    <img src="https://img.shields.io/badge/GitHub-chinnuxop-black?style=for-the-badge&logo=github" />
-  </a>
+ <a href="https://www.instagram.com/chinnuxop">
+  <img src="https://img.shields.io/badge/Instagram-chinnuxop-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/dibesh-kumar-parida-3b9652313">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
