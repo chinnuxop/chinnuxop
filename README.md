@@ -29,7 +29,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Studying at **Centurion University**
-- 🌱 Learning **Java, Python, C, Angular, Spring Boot, MySQL**
+- 🌱 Learning **Java, Python, C, Angular, Spring Boot, MySQL , Kotlin**
 - 💻 Interested in **Full Stack & Backend Development**
 - 🚀 Goal: Become a **Professional Full Stack Developer**
 
@@ -47,7 +47,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,android,firebase,c,html,css,js,angular,spring,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,angular,spring,mysql,git,github,android,firebase,kotlin" />
 </p>
 
 ---
