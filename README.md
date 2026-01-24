@@ -70,5 +70,13 @@
 
 <h3 align="center">⭐ If you like my profile, give a star!</h3>
 
+<p align="center">
+  <a href="https://github.com/chinnuxop/REPO">
+    <img src="https://img.shields.io/github/stars/chinnuxop/REPO?style=for-the-badge" />
+  </a>
+</p>
+
+
+
 <!-- 🌊 WAVE FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
