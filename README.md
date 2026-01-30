@@ -40,8 +40,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chinnuxop&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=chinnuxop&theme=radical&hide_border=true&cache_seconds=3600" />
 </p>
+
 
 ---
 ## 🛠️ Tech Stack
