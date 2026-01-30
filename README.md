@@ -55,11 +55,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" 
-       src="https://github-readme-stats.vercel.app/api?username=chinnuxop&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=chinnuxop&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 
-  <img height="180" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnuxop&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnuxop&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+
+
 </p>
 
 ---
