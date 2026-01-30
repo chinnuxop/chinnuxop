@@ -15,13 +15,12 @@
   <a href="mailto:dibeshwork07@gmail.com">
     <img src="https://img.shields.io/badge/Email-dibeshwork07%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
- <a href="https://www.instagram.com/chinnuxop">
-  <img src="https://img.shields.io/badge/Instagram-chinnuxop-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/dibesh-kumar-parida-3b9652313">
+  <a href="https://www.instagram.com/chinnuxop">
+    <img src="https://img.shields.io/badge/Instagram-chinnuxop-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dibesh-kumar-parida-3b9652313">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
 </p>
 
 ---
@@ -29,22 +28,20 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Studying at **Centurion University**
-- 🌱 Learning **Java, Python, C, Angular, Spring Boot, MySQL , Kotlin , MERN**
+- 🌱 Learning **Java, Python, C, Angular, Spring Boot, MySQL, Kotlin, MERN**
 - 💻 Interested in **Full Stack & Backend Development**
 - 🚀 Goal: Become a **Professional Full Stack Developer**
 
 ---
 
-
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=chinnuxop&theme=radical&hide_border=true&cache_seconds=3600" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=chinnuxop&theme=radical&hide_border=true&cache_seconds=3600" />
 </p>
 
-
 ---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -52,6 +49,7 @@
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -64,9 +62,6 @@
 
 ---
 
----
-
-
 ## 💬 Quote
 
 <p align="center">
@@ -76,9 +71,6 @@
 ---
 
 <h3 align="center">⭐ If you like my profile, give a star!</h3>
-
-
-
 
 <!-- 🌊 WAVE FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
