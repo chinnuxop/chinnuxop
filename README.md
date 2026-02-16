@@ -55,9 +55,6 @@
 <p align="center">
 
 <img height="180"
-src="https://streak-stats.demolab.com?user=chinnuxop&theme=radical&hide_border=true" />
-
-<img height="180"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chinnuxop&theme=radical" />
 
 </p>
