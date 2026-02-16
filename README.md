@@ -93,9 +93,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ch
 
 <br><br>
 
-<img src="https://img.shields.io/github/stars/chinnuxop?style=for-the-badge&logo=github&color=ffcc00&labelColor=000000" />
-
-<img src="https://img.shields.io/github/followers/chinnuxop?style=for-the-badge&logo=github&color=1f6feb&labelColor=000000" />
 
 </p>
 
