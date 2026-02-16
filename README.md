@@ -50,12 +50,32 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
 
-<img height="180"
+<img height="180" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinnuxop&theme=radical" />
+
+</p>
+
+<p align="center">
+
+<img height="170" 
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chinnuxop&theme=radical" />
+
+<img height="170" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chinnuxop&theme=radical" />
+
+</p>
+
+<p align="center">
+
+<img height="170" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chinnuxop&theme=radical" />
+
+<img height="170" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chinnuxop&theme=radical&utcOffset=5.5" />
 
 </p>
 
