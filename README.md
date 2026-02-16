@@ -54,6 +54,7 @@
 
 <p align="center">
 
+<!-- Profile Details -->
 <img height="180" 
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinnuxop&theme=radical" />
 
@@ -61,21 +62,13 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 <p align="center">
 
+<!-- Repos Per Language -->
 <img height="170" 
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chinnuxop&theme=radical" />
 
-<img height="170" 
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chinnuxop&theme=radical" />
-
-</p>
-
-<p align="center">
-
+<!-- Stats Card -->
 <img height="170" 
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chinnuxop&theme=radical" />
-
-<img height="170" 
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chinnuxop&theme=radical&utcOffset=5.5" />
 
 </p>
 
@@ -92,6 +85,21 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 ---
 
 <h3 align="center">⭐ If you like my profile, give a star!</h3>
+<p align="center">
+
+<a href="https://github.com/chinnuxop?tab=repositories">
+  <img src="https://img.shields.io/badge/⭐_Give_a_Star-000000?style=for-the-badge&logo=github&logoColor=yellow&labelColor=111111&color=ffcc00" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/stars/chinnuxop?style=for-the-badge&logo=github&color=ffcc00&labelColor=000000" />
+
+<img src="https://img.shields.io/github/followers/chinnuxop?style=for-the-badge&logo=github&color=1f6feb&labelColor=000000" />
+
+</p>
+
+
 
 <!-- 🌊 WAVE FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
